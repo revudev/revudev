@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Denys</h1>
-<h3 align="center">A passionate frontend developer from Ukraine, but I currently live in Spain.</h3>
+<h3 align="center">A passionate frontend developer from Ukraine, currently calling Spain home. Proficient in HTML, JS, CSS, JAVA, PHP, and Git. As a dedicated student, I'm eager to learn and contribute to exciting projects.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leid04&label=Profile%20views&color=0e75b6&style=flat" alt="leid04" /> </p>
 
