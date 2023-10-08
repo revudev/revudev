@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leid04" alt="leid04" /></a> </p>
 
-- 🌱 I’m currently learning **I’m currently learning: Web Development at a Higher Education Level in Madrid.**
+- 🌱 I’m currently learning **: Web Development at a Higher Education Level in Madrid.**
 
 - 📫 How to reach me **denys.msi04@gmail.com**
 
