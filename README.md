@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/L3Vca26EaTIEU/giphy.gif" width="200"/>
     <h1 align="center">Hi 👋, I'm Denys</h1>
-    <h3 align="center">A passionate frontend developer from Ukraine, currently calling Spain home. Proficient in HTML, JS, CSS, JAVA, PHP, and Git. As a dedicated student, I'm eager to learn and contribute to exciting projects.</h3>
+    <h3 align="center">A passionate full-stack developer from Ukraine, currently calling Spain home. Proficient in HTML, JS, CSS, JAVA, PHP, and Git. As a dedicated student, I'm eager to learn and contribute to exciting projects.</h3>
 </div>
 ---
 
