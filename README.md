@@ -29,8 +29,7 @@
 ---
 
 ### 📊 My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leid04&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Leid04&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=leid04&show_icons=true&theme=radical)
 
