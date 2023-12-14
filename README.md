@@ -26,12 +26,9 @@
 </div>
 
 ---
----
 
 ### 📊 My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=Leid04&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=leid04&show_icons=true&theme=radical)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
