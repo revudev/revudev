@@ -4,7 +4,7 @@
     <img src="https://media.giphy.com/media/Bzzb92NKwUOj0FjQOd/giphy.gif" width="300"/>
     <p align="center">
      <a href="https://github.com/DenverCoder1/readme-typing-svg"><!--Author-->
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20%20%20developer;Always%20learning%20new%20things&font=consolas%20Code&center=true&width=440&height=45&color=#000000&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20%20%20developer;Studying%20React%20right %20now&font=consolas%20Code&center=true&width=440&height=45&color=#000000&vCenter=true&pause=1000&size=22" /></a>
 </p>
     <h1 align="center">Hi 👋, I'm Denys</h1>
     <h3 align="center">A passionate full-stack developer from Ukraine, currently calling Spain home. Proficient in HTML, JS, CSS, JAVA, PHP, and Git. As a dedicated student, I'm eager to learn and contribute to exciting projects.</h3>
