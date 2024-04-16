@@ -20,9 +20,9 @@
 ### 🔨 Languages and Tools:
 <div align="left">
     <div>
-        <img src="https://skillicons.dev/icons?i=angular,react,tailwind,html,css,javascript,typescript,bootstrap"/><br>
-        <img src="https://skillicons.dev/icons?i=php,python,nodejs,express,java,mysql" /><br>
-        <img src="https://skillicons.dev/icons?i=wordpress,github,git,bash,npm,yarn" /><br>
+        <img src="https://skillicons.dev/icons?i=angular,react,astro,tailwind,html,css,javascript,typescript,bootstrap"/><br>
+        <img src="https://skillicons.dev/icons?i=php,python,nodejs,express,java,mysql,bash" /><br>
+        <img src="https://skillicons.dev/icons?i=wordpress,figma,bun,linux,github,git" /><br>
     </div>
 </div>
 
