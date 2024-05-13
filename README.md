@@ -11,11 +11,11 @@
 
 ### 👨‍💻 About Me :
 
-- 📫 How to reach me **denys.msi04@gmail.com**
+- 📫 **denys.msi04@gmail.com**
 
-- 📓 Portfolio **https://deny-portfolio.vercel.app**
+- 📓 Portfolio **https://revudev.vercel.app**
 
-- 🌱 I’m currently learning **Web Development at a Higher Education Level in Madrid**
+- 🌱 **Web Development a Higher Education Level in Madrid**
 
 ### 🔨 Languages and Tools:
 <div align="left">
