@@ -18,14 +18,12 @@
 
 - 📓 **[revudev.vercel.app](https://revudev.vercel.app)**
 
-- 🌱 Currently studying Web Development at Higher Education Level in Madrid
-
 ### 🔨 Languages and Tools:
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=angular,react,tailwind,astro,javascript,typescript,html,css,bootstrap,materialui"/><br>
-    <img src="https://skillicons.dev/icons?i=nest,express,php,python,java,mysql,bash,postman" /><br>
-    <img src="https://skillicons.dev/icons?i=wordpress,figma,bun,yarn,linux,git,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=angular,react,next,astro,html,css,javascript,typescript,tailwind,bootstrap,materialui"/><br>
+    <img src="https://skillicons.dev/icons?i=nest,nodejs,express,deno,php,python,java,mysql,supabase,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,wordpress,figma,bun,yarn,linux" /><br>
 </div>
 
 ---
