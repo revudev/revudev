@@ -16,8 +16,6 @@
 
 - 📫 **denys.msi04@gmail.com**
 
-- 📓 **[revudev.vercel.app](https://revudev.vercel.app)**
-
 ### 🔨 Languages and Tools:
 
 <div align="left">
