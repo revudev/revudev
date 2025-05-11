@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hi, I'm <a href="https://revudev.vercel.app">Denys</a></h1>
+    <h1>Hi, I'm <a href="https://www.linkedin.com/in/denys2004/">Denys</a></h1>
 </div>
 
 <h3 align="left">
