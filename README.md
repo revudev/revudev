@@ -1,6 +1,5 @@
 <div align="center">
     <h1>Hi, I'm <a href="https://revudev.vercel.app">Denys</a></h1>
-    <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring%20to be full%20stack web dev;Studing%20Next%20right%20now&font=consolas%20Code&center=true&width=440&height=45&color=#000000&vCenter=true&pause=1000&size=22" />
 </div>
 
 <h3 align="left">
