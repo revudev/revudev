@@ -39,7 +39,7 @@
   </tr>
   <tr>
     <td align="center"><b>Database</b></td>
-    <td align="center"><b>Tools</b></td>
+    <td align="center"><b>Infra</b></td>
   </tr>
   <tr>
     <td align="center">
