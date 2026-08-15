@@ -13,24 +13,24 @@
   </tr>
   <tr>
     <td align="center">
-      <table border="0" cellspacing="0" cellpadding="4">
+      <table border="0" cellspacing="0" cellpadding="2">
         <tr>
-          <td align="center"><img height="48" src="https://skillicons.dev/icons?i=react" /><br/>React</td>
-          <td align="center"><img height="48" src="https://skillicons.dev/icons?i=angular" /><br/>Angular</td>
-          <td align="center"><img height="48" src="https://skillicons.dev/icons?i=next" /><br/>Next.js</td>
-          <td align="center"><img height="48" src="https://skillicons.dev/icons?i=typescript" /><br/>TypeScript</td>
-          <td align="center"><img height="48" src="https://skillicons.dev/icons?i=tailwind" /><br/>Tailwind</td>
+          <td align="center"><img height="32" src="https://skillicons.dev/icons?i=react" /><br/><sub>React</sub></td>
+          <td align="center"><img height="32" src="https://skillicons.dev/icons?i=angular" /><br/><sub>Angular</sub></td>
+          <td align="center"><img height="32" src="https://skillicons.dev/icons?i=next" /><br/><sub>Next.js</sub></td>
+          <td align="center"><img height="32" src="https://skillicons.dev/icons?i=typescript" /><br/><sub>TypeScript</sub></td>
+          <td align="center"><img height="32" src="https://skillicons.dev/icons?i=tailwind" /><br/><sub>Tailwind</sub></td>
         </tr>
       </table>
     </td>
     <td align="center">
-      <table border="0" cellspacing="0" cellpadding="4">
+      <table border="0" cellspacing="0" cellpadding="2">
         <tr>
-          <td align="center"><img height="48" src="https://skillicons.dev/icons?i=python" /><br/>Python</td>
-          <td align="center"><img height="48" src="https://skillicons.dev/icons?i=go" /><br/>Go</td>
-          <td align="center"><img height="48" src="https://skillicons.dev/icons?i=ruby" /><br/>Ruby</td>
-          <td align="center"><img height="48" src="https://skillicons.dev/icons?i=nest" /><br/>NestJS</td>
-          <td align="center"><img height="48" src="https://skillicons.dev/icons?i=nodejs" /><br/>Node.js</td>
+          <td align="center"><img height="32" src="https://skillicons.dev/icons?i=python" /><br/><sub>Python</sub></td>
+          <td align="center"><img height="32" src="https://skillicons.dev/icons?i=go" /><br/><sub>Go</sub></td>
+          <td align="center"><img height="32" src="https://skillicons.dev/icons?i=ruby" /><br/><sub>Ruby</sub></td>
+          <td align="center"><img height="32" src="https://skillicons.dev/icons?i=nest" /><br/><sub>NestJS</sub></td>
+          <td align="center"><img height="32" src="https://skillicons.dev/icons?i=nodejs" /><br/><sub>Node.js</sub></td>
         </tr>
       </table>
     </td>
@@ -41,24 +41,24 @@
   </tr>
   <tr>
     <td align="center">
-      <table border="0" cellspacing="0" cellpadding="4">
+      <table border="0" cellspacing="0" cellpadding="2">
         <tr>
-          <td align="center"><img height="48" src="https://skillicons.dev/icons?i=postgres" /><br/>PostgreSQL</td>
-          <td align="center"><img height="48" src="https://skillicons.dev/icons?i=redis" /><br/>Redis</td>
-          <td align="center"><img height="48" src="https://skillicons.dev/icons?i=sqlite" /><br/>SQLite</td>
-          <td align="center"><img height="48" src="https://skillicons.dev/icons?i=mysql" /><br/>MySQL</td>
-          <td align="center"><img height="48" src="https://skillicons.dev/icons?i=mongodb" /><br/>MongoDB</td>
+          <td align="center"><img height="32" src="https://skillicons.dev/icons?i=postgres" /><br/><sub>PostgreSQL</sub></td>
+          <td align="center"><img height="32" src="https://skillicons.dev/icons?i=redis" /><br/><sub>Redis</sub></td>
+          <td align="center"><img height="32" src="https://skillicons.dev/icons?i=sqlite" /><br/><sub>SQLite</sub></td>
+          <td align="center"><img height="32" src="https://skillicons.dev/icons?i=mysql" /><br/><sub>MySQL</sub></td>
+          <td align="center"><img height="32" src="https://skillicons.dev/icons?i=mongodb" /><br/><sub>MongoDB</sub></td>
         </tr>
       </table>
     </td>
     <td align="center">
-      <table border="0" cellspacing="0" cellpadding="4">
+      <table border="0" cellspacing="0" cellpadding="2">
         <tr>
-          <td align="center"><img height="48" src="https://skillicons.dev/icons?i=docker" /><br/>Docker</td>
-          <td align="center"><img height="48" src="https://skillicons.dev/icons?i=aws" /><br/>AWS</td>
-          <td align="center"><img height="48" src="https://skillicons.dev/icons?i=kubernetes" /><br/>Kubernetes</td>
-          <td align="center"><img height="48" src="https://skillicons.dev/icons?i=terraform" /><br/>Terraform</td>
-          <td align="center"><img height="48" src="https://skillicons.dev/icons?i=jenkins" /><br/>Jenkins</td>
+          <td align="center"><img height="32" src="https://skillicons.dev/icons?i=docker" /><br/><sub>Docker</sub></td>
+          <td align="center"><img height="32" src="https://skillicons.dev/icons?i=aws" /><br/><sub>AWS</sub></td>
+          <td align="center"><img height="32" src="https://skillicons.dev/icons?i=kubernetes" /><br/><sub>Kubernetes</sub></td>
+          <td align="center"><img height="32" src="https://skillicons.dev/icons?i=terraform" /><br/><sub>Terraform</sub></td>
+          <td align="center"><img height="32" src="https://skillicons.dev/icons?i=jenkins" /><br/><sub>Jenkins</sub></td>
         </tr>
       </table>
     </td>
