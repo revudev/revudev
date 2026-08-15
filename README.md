@@ -1,67 +1,67 @@
-<div align="center">
-
-# Hi, I'm [Denys Revutskyi](https://www.linkedin.com/in/denys-revutskyi-1874a9244/) 👋
-
-### Full-Stack Developer — building across the stack, from UI to database.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denys-revutskyi-1874a9244/)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denys.msi04@gmail.com)
-
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-- 🚀 Full-stack developer focused on modern web technologies and clean, maintainable code.
-- 🌱 Continuously learning — from front-end frameworks to back-end architecture and databases.
-- 🤝 Open to collaboration and new opportunities.
-- 📫 Reach me at **denys.msi04@gmail.com**
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend**
-
-![Angular](https://skillicons.dev/icons?i=angular) ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=next) ![Astro](https://skillicons.dev/icons?i=astro) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![Material UI](https://skillicons.dev/icons?i=materialui) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css)
-
-**Backend**
-
-![NestJS](https://skillicons.dev/icons?i=nest) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Deno](https://skillicons.dev/icons?i=deno) ![PHP](https://skillicons.dev/icons?i=php) ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java)
-
-**Databases & Services**
-
-![MySQL](https://skillicons.dev/icons?i=mysql) ![Supabase](https://skillicons.dev/icons?i=supabase) ![Postman](https://skillicons.dev/icons?i=postman)
-
-**Tools & Platforms**
-
-![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![GitHub Actions](https://skillicons.dev/icons?i=githubactions) ![Vercel](https://skillicons.dev/icons?i=vercel) ![WordPress](https://skillicons.dev/icons?i=wordpress) ![Figma](https://skillicons.dev/icons?i=figma) ![Bun](https://skillicons.dev/icons?i=bun) ![Yarn](https://skillicons.dev/icons?i=yarn) ![Linux](https://skillicons.dev/icons?i=linux)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=revudev&count_private=true&theme=react&border_radius=10" alt="GitHub streak stats" />
-<img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=revudev&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub stats" />
-
-<br/>
-
-<img width="42%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=revudev&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top languages" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denys-revutskyi-1874a9244/)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denys.msi04@gmail.com)
-
-<i>Always open to interesting projects and conversations.</i>
-
+<div>
+<table>
+  <tr>
+    <td valign="top">
+      <img height="200" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=revudev&count_private=true&border_radius=10&hide_border=true&background=0D1117&ring=FF4D4D&fire=FF4D4D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF4D4D&sideLabels=FFFFFF&dates=8B949E" alt="GitHub streak stats" />
+    </td>
+    <td valign="top">
+      <img height="200" src="https://github-readme-stats-salesp07.vercel.app/api?username=revudev&count_private=true&show_icons=true&rank_icon=github&border_radius=10&hide_border=true&title_color=FF4D4D&icon_color=FF4D4D&text_color=FFFFFF&bg_color=0D1117" alt="GitHub stats" />
+    </td>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td align="center"><b>Backend</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <table border="0" cellspacing="0" cellpadding="6">
+        <tr>
+          <td align="center"><img height="64" src="https://skillicons.dev/icons?i=react" /><br/>React</td>
+          <td align="center"><img height="64" src="https://skillicons.dev/icons?i=angular" /><br/>Angular</td>
+          <td align="center"><img height="64" src="https://skillicons.dev/icons?i=next" /><br/>Next.js</td>
+          <td align="center"><img height="64" src="https://skillicons.dev/icons?i=typescript" /><br/>TypeScript</td>
+          <td align="center"><img height="64" src="https://skillicons.dev/icons?i=tailwind" /><br/>Tailwind</td>
+        </tr>
+      </table>
+    </td>
+    <td align="center">
+      <table border="0" cellspacing="0" cellpadding="6">
+        <tr>
+          <td align="center"><img height="64" src="https://skillicons.dev/icons?i=python" /><br/>Python</td>
+          <td align="center"><img height="64" src="https://skillicons.dev/icons?i=go" /><br/>Go</td>
+          <td align="center"><img height="64" src="https://skillicons.dev/icons?i=ruby" /><br/>Ruby</td>
+          <td align="center"><img height="64" src="https://skillicons.dev/icons?i=nest" /><br/>NestJS</td>
+          <td align="center"><img height="64" src="https://skillicons.dev/icons?i=nodejs" /><br/>Node.js</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Database</b></td>
+    <td align="center"><b>Tools</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <table border="0" cellspacing="0" cellpadding="6">
+        <tr>
+          <td align="center"><img height="64" src="https://skillicons.dev/icons?i=postgres" /><br/>PostgreSQL</td>
+          <td align="center"><img height="64" src="https://skillicons.dev/icons?i=redis" /><br/>Redis</td>
+          <td align="center"><img height="64" src="https://skillicons.dev/icons?i=sqlite" /><br/>SQLite</td>
+          <td align="center"><img height="64" src="https://skillicons.dev/icons?i=mysql" /><br/>MySQL</td>
+          <td align="center"><img height="64" src="https://skillicons.dev/icons?i=mongodb" /><br/>MongoDB</td>
+        </tr>
+      </table>
+    </td>
+    <td align="center">
+      <table border="0" cellspacing="0" cellpadding="6">
+        <tr>
+          <td align="center"><img height="64" src="https://skillicons.dev/icons?i=docker" /><br/>Docker</td>
+          <td align="center"><img height="64" src="https://skillicons.dev/icons?i=aws" /><br/>AWS</td>
+          <td align="center"><img height="64" src="https://skillicons.dev/icons?i=kubernetes" /><br/>Kubernetes</td>
+          <td align="center"><img height="64" src="https://skillicons.dev/icons?i=terraform" /><br/>Terraform</td>
+          <td align="center"><img height="64" src="https://skillicons.dev/icons?i=jenkins" /><br/>Jenkins</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 </div>
