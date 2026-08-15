@@ -2,10 +2,10 @@
 <div>
   <tr>
     <td valign="top">
-      <img height="180" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=revudev&count_private=true&border_radius=10&hide_border=true&background=0D1117&ring=FF4D4D&fire=FF4D4D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF4D4D&sideLabels=FFFFFF&dates=8B949E" alt="GitHub streak stats" />
+      <img height="170" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=revudev&count_private=true&border_radius=10&hide_border=true&background=0D1117&ring=FF4D4D&fire=FF4D4D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF4D4D&sideLabels=FFFFFF&dates=8B949E" alt="GitHub streak stats" />
     </td>
     <td valign="top">
-      <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api?username=revudev&count_private=true&show_icons=true&rank_icon=github&border_radius=10&hide_border=true&title_color=FF4D4D&icon_color=FF4D4D&text_color=FFFFFF&bg_color=0D1117" alt="GitHub stats" />
+      <img height="170" src="https://github-readme-stats-salesp07.vercel.app/api?username=revudev&count_private=true&show_icons=true&rank_icon=github&border_radius=10&hide_border=true&title_color=FF4D4D&icon_color=FF4D4D&text_color=FFFFFF&bg_color=0D1117" alt="GitHub stats" />
     </td>
   </div>
   <table>
