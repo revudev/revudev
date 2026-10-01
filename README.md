@@ -60,7 +60,7 @@
           <td align="center"><img height="56" src="https://skillicons.dev/icons?i=aws" /><br/><sub>AWS</sub></td>
           <td align="center"><img height="56" src="https://skillicons.dev/icons?i=kubernetes" /><br/><sub>Kubernetes</sub></td>
           <td align="center"><img height="56" src="https://skillicons.dev/icons?i=terraform" /><br/><sub>Terraform</sub></td>
-          <td align="center"><img height="56" src="https://skillicons.dev/icons?i=jenkins" /><br/><sub>Jenkins</sub></td>
+          <td align="center"><img height="56" src="https://skillicons.dev/icons?i=ansible" /><br/><sub>Ansible</sub></td>
         </tr>
       </table>
     </td>
