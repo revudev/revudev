@@ -52,6 +52,6 @@
   </tr>
 </table>
 
-<p align="center"><sub>Also building with</sub><br/>
+<p align="center">Also building with<br/>
   <img src="https://skillicons.dev/icons?i=py,go,ts,react" />
 </p>
